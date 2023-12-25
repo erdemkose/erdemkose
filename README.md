@@ -41,12 +41,14 @@ I'm Erdem from Berlin.
 
 **Gemini API PHP Client** - [Repo](https://github.com/gemini-api-php/client) | [Packagist](https://packagist.org/packages/gemini-api-php/client)
 
+<a href="https://github.com/gemini-api-php/client"><img alt="Repository stars" src="https://img.shields.io/github/stars/gemini-api-php/client"></a>
 <a href="https://packagist.org/packages/gemini-api-php/client"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/gemini-api-php/client"></a>
 <a href="https://packagist.org/packages/gemini-api-php/client"><img alt="Latest Version" src="https://img.shields.io/packagist/v/gemini-api-php/client"></a>
 <a href="https://packagist.org/packages/gemini-api-php/client"><img alt="License" src="https://img.shields.io/github/license/gemini-api-php/client"></a>
 
 **Gemini API for Laravel** - [Repo](https://github.com/gemini-api-php/laravel) | [Packagist](https://packagist.org/packages/gemini-api-php/laravel)
-  
+
+<a href="https://github.com/gemini-api-php/laravel"><img alt="Repository stars" src="https://img.shields.io/github/stars/gemini-api-php/laravel"></a>
 <a href="https://packagist.org/packages/gemini-api-php/laravel"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/gemini-api-php/laravel"></a>
 <a href="https://packagist.org/packages/gemini-api-php/laravel"><img alt="Latest Version" src="https://img.shields.io/packagist/v/gemini-api-php/laravel"></a>
 <a href="https://packagist.org/packages/gemini-api-php/laravel"><img alt="License" src="https://img.shields.io/github/license/gemini-api-php/laravel"></a>
