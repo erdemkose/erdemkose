@@ -15,7 +15,7 @@
 
 I'm Erdem from Berlin.
 
-- 🔭 I’m working as a Senior Software Engineer at [Nord Security](https://github.com/NordSecurity) (NordVPN).
+- 🔭 I work as a Software Engineering Manager at [Atolls](https://atolls.com/).
 - 📚 I'm currently learning how to improve developer productivity.
 - ⚡ In my free time, I maintain the [Gemini API PHP](https://github.com/gemini-api-php) libraries.
 
