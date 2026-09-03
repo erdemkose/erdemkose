@@ -13,10 +13,9 @@
 
 # 👨🏽‍💻 About Me
 
-I'm Erdem from Berlin.
+I'm Erdem from Istanbul, Turkey.
 
-- 🔭 I work as a Software Engineering Manager at [Atolls](https://atolls.com/).
-- 📚 I'm currently learning how to improve developer productivity.
+- 🔭 I work as a freelancer software engineer.
 - ⚡ In my free time, I maintain the [Gemini API PHP](https://github.com/gemini-api-php) libraries.
 
 # 💻 Tech Stack:
